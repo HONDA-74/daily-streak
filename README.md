@@ -14,4 +14,4 @@ This repository is used to maintain my daily GitHub contribution streak.
 - Day 2: HTML file added , CSS file added , JS file added
 - Day 3: C++ file added , C file added , C# file added
 - Day 4: Python file added , Java file added , TypeScript file added
-- Day 5:
+- Day 5: Go file added
