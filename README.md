@@ -19,4 +19,4 @@ This repository is used to maintain my daily GitHub contribution streak.
 - Day 7: PHP file added , Ruby file added
 - Day 8: Scala file added
 - Day 9: Lua file added , PowerShell file added
-- Day 10
+- Day 10:
