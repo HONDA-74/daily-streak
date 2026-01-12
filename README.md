@@ -21,4 +21,4 @@ This repository is used to maintain my daily GitHub contribution streak.
 - Day 09: Lua file added , PowerShell file added
 - Day 10: Assembly file added , Folder Structure Update
 - Day 11: D file added , Schema file added
-- Day 12: Haskell file
+- Day 12: Haskell file added
